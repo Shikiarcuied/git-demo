@@ -1,1 +1,7 @@
-print("Hello GitHub, this is my first repo!")
+def main():
+    print("Hello GitHub!")
+    print("This is my second commit.")
+
+if __name__ == "__main__":
+    main()
+
